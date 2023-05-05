@@ -1,0 +1,10 @@
+.header-title {
+  text-align: center;
+}
+main {
+  display: flex;
+}
+.cmp-sec {
+  flex: 30% 0 0;
+  padding: 10px;
+}
